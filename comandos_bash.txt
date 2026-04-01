@@ -2,6 +2,7 @@ ls -> lista arquivos
 cd -> move entre diretórios
 pwd -> mostra diretório de trabalho
 cat -> exibe conteúdo do arquivo
-rm -rf .nomedapasta/ -> exclui sem necessidade de confirmação a pasta de repositório GIT
+rm -> remove arquivo ou diretório
+rm -rf .nomedapasta/ -> remove de forma recursiva e forçada todos os diretórios
 git init . -> cria uma pasta de repositório GIT na pasta selecionada
 git status -> mostra o status da pasta selecionada, dando detalhes dos commits
