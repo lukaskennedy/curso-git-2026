@@ -6,3 +6,5 @@ rm -> remove arquivo ou diretório
 rm -rf .nomedapasta/ -> remove de forma recursiva e forçada todos os diretórios
 git init . -> cria uma pasta de repositório GIT na pasta selecionada
 git status -> mostra o status da pasta selecionada, dando detalhes dos commits
+
+..
