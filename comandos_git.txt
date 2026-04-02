@@ -5,3 +5,16 @@ git add nome_arquivo -> adiciona arquivo para ser commitado
 git log -> mostra todo o histórico de commit
 
 
+##FLUXO DE TRABALHO
+
+1. CRIAR DIRETÓRIO (PASTA) DO PROJETO
+2. INICIAR O GIT DENTRO DO DIRETÓRIO CRIADO (GIT INIT .)
+3. EDITA OU CRIA ARQUIVOS
+4. GIT STATUS
+5. GIT ADD <NOME ARQUIVO>
+6. GIT STATUS
+7. GIT COMMIT -M "MENSAGEM"
+8. GIT STATUS
+9. VOLTA PARA O PASSO 3
+
+
